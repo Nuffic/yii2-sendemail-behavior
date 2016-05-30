@@ -1,0 +1,18 @@
+{
+  "name": "nuffic/yii2-sendemail-behavior",
+  "description": "Send email behavior for Yii 2",
+  "authors": [
+    {
+      "name": "Kaupo Juhkam",
+      "email": "kaupojuhkam@live.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "nuffic\\behaviors\\": "src"
+    }
+  },
+  "require": {
+    "yiisoft/yii2": "*"
+  }
+}
